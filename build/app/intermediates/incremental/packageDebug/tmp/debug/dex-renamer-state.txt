@@ -1,0 +1,4 @@
+#Sat Nov 30 14:35:46 BRST 2019
+base.0=/home/batman/dev/flutter/workspace/calculadora_imc/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
